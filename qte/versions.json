@@ -1,0 +1,10 @@
+{
+    "unstable": {
+        "2.0": {
+            "current": "2.0.0-dev",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=501&t=2218556",
+            "eol": null,
+            "security": false
+        }
+    }
+}
